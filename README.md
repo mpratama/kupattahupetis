@@ -1,4 +1,4 @@
-# Kupat Tahu Petis - Kupakai Atmega TigaDuaDelapan Untuk Penjetrak-jetrek Otomatis
+# KupAtTahUPetis (Kupakai Atmega TigaDuaDelapan Untuk Penjetrak-jetrek Otomatis)
 Mengontrol relay sebagai contoh untuk menyalakan dan mematikan pompa air secara otomatis.
 
 # Komponen Utama
